@@ -56,9 +56,8 @@ h1 {
   width: 100%
 }
 
-@meida screen and (min-width 575px) {
+@media  screen and (min-width: 575px) {
   body {
-    margin: 1%;
     width: 48%;
   }
 }
